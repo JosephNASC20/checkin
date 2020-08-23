@@ -1,0 +1,18 @@
+#studentName{
+  font-family:Helvetica;
+  text-align:center;
+}
+#classlist{
+  font-family: Helvetica;
+}
+#assignmentslist{
+  font-family:Helvetica;
+  font-size:40px;
+}
+#gradeinclass{
+  font-family:helvetica;
+  font-size:40px;
+}
+#classitems{
+  font-size:20px;
+}

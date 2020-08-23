@@ -16,3 +16,32 @@
 #classitems{
   font-size:20px;
 }
+#logo {
+  text-align:left;
+  font-size:50px;
+  color: lightblue;
+}
+ul {
+  list-style-type: none;
+  margin-bottom:30;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-radius: 30px;
+  
+}
+li {
+  display: inline;
+  margin-left:40px;
+  margin-right:40px;
+}
+li a {
+  color: #f2f2f2;
+  font-size:30px;
+  text-decoration:none;
+  font-family:Helvetica;
+}
+li a:hover {
+background-color:lightblue;
+color: black;
+}
